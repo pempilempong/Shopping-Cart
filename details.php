@@ -67,7 +67,7 @@
                                         </p>
                                         <hr>
                                         <input type="hidden" name="cartkey" value="<?php echo $_GET['itemkey']; ?>">
-                                        <label ><h4>Select Color:</h4></label><br>
+                                        <label ><h4>Select Size:</h4></label><br>
                                         <input type="radio" name="radColor" id="radBlack" value="Black" checked>
                                         <label for="radBlack">SX</label>
                                         <input type="radio" name="radColor" id="radRed" value="Red">
